@@ -8,3 +8,5 @@ Project 002 of Udacity's "Intro To Self-Driving Cars", Implementing A Matrix Cla
   * Transpose
   * Inverse
   * Trace
+
+(Upload Initially Written In May 2018)
